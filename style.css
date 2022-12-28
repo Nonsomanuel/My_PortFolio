@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url('./images/BG1.png')  center /cover;
+}
+#Homepage h1{
+    padding-top: 80px;
+    text-align: left;
+}
+#Homepage a{
+    margin-left: 130px;
+}
+#about{
+    padding-top: 70px;
+}
